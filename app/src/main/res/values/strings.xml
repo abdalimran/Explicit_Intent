@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Explicit Intent</string>
+    <string name="another_activity">Bring me to another activity!</string>
+    <string name="explicit_intent">Use of Explicit intent</string>
+</resources>
