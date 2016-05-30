@@ -6,7 +6,7 @@ import android.widget.ImageView;
 
 public class AnotherActivity extends AppCompatActivity {
 
-    ImageView iv;
+    private ImageView iv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
